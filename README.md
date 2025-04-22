@@ -14,7 +14,7 @@
 ![2](https://github.com/user-attachments/assets/612881cd-9ed7-430b-a25f-ed44c3bfa45f)
 
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/jwP2Pl74soQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jwP2Pl74soQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 
 
