@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>kabynebylo-3-web</repo>
-  <version>v1.0.11</version>
+  <version>v1.0.12</version>
   <next number="1" owner="Fistachka" repo="elochka-two"/>
   <readme>
     <ru>5892720869ceed215db31acdcbb7030318a119c91cd54e94dcecff1aec0e2cd1</ru>
-    <en>d17ee9221ccc54e82a796d76015e05fda1bec0ec55b8fc97fd7c8baccaabfe1f</en>
+    <en>8fc8baf33538d92efc35383b062f8015b07b79a0d76e2f88719cae5e96544850</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
